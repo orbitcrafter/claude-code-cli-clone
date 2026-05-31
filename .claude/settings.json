@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/jungkwonkim/.claude/hooks-venv/bin/python /Users/jungkwonkim/Lab/App/claude-code-cli-clone/.claude/hooks/memo-hook.py"
+          }
+        ]
+      }
+    ]
+  }
+}
